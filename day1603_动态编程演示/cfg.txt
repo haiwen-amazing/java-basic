@@ -1,0 +1,9 @@
+# 根据配置的执行流程来执行
+# 类必须有无参构造
+# 方法参数是String，返回String
+day1603.A;a
+day1603.B;b
+day1603.A;a
+day1603.C;c
+day1603.B;b
+day1603.B;b
